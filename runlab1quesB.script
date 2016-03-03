@@ -1,0 +1,13 @@
+Script started on Thu Mar  3 12:40:13 2016
+[?1034hbash-3.2$ wo[K[Kpwd
+/Users/Evan/documents/程設二/githws/lab1
+bash-3.2$ ls
+lab1.script		lab1_quesb		runlab1quesB.script
+bash-3.2$ cd lab1_quesB[Kb
+bash-3.2$ G==[K[Kg++[K[K[K[Kg++ -o lab_[K`[K1_quesB main.cpp
+bash-3.2$ ./lab1_quesB
+Please input a integer.22
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 bash-3.2$ 
+bash-3.2$ exit
+
+Script done on Thu Mar  3 12:41:51 2016
